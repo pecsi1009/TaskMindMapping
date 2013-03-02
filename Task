@@ -1,0 +1,16 @@
+Задача 3: Аритметичен израз
+Напишете програма, която изчислява стойността на прост аритметичен из­раз, съставен от цели числа без знак и
+аритметичните операции "+" и "-". Между числата няма интервали.
+
+Изразът се задава във формат:<число><операция>…<число>
+Примерен вход: 1+2-7+2-1+28+2+3-37+22
+Примерен изход: 15
+
+------------------------------------------------------------------------------------------------------------
+Task 3: Arithmetic Expression
+Write a program that calculates the value of a simple arithmetic expression consisting of integers and unsigned
+arithmetic operations "+" and "-". No spaces between the numbers.
+
+The expression is given in the format: <number> <operation> ... <number>
+Sample Input 1 +2-7 +2-1 +28 +2 +3-37 +22
+Sample output: 15
